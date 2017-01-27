@@ -1,9 +1,12 @@
-header{
-    background-color: lightblue;
+.resheader {
+    background-color: dimgrey;
+    color: white;
+    align-items: center;
 }
 
 .bree-photo{
     width: 150px;
+    border: solid 2px white;
 }
 
 h1 {
